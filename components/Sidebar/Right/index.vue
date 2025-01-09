@@ -3,8 +3,8 @@
             <!--Thanh tìm kiếm-->
             <div class="relative m-2">
                 <div class="absolute flex items-center h-full pl-4 text-gray-600 cursor-pointer">
-                    <div class="w-6 h-6">
-                        Search
+                    <div class="w-full h-6">
+                        Tìm kiếm
                     </div>
                 </div>
             </div>

@@ -11,12 +11,16 @@
   },
   "dependencies": {
     "@heroicons/vue": "^2.2.0",
+    "@prisma/client": "^6.2.1",
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
     "nuxt": "^3.15.1",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "prettier": "^3.4.2"
+    "prettier": "^3.4.2",
+    "prisma": "^6.2.1"
   }
 }

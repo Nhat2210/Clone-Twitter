@@ -1,7 +1,7 @@
 <template>
     <div>
-        <MainSection title="Home" :loading="loading">
-            This is our homepage
+        <MainSection title="Trang chủ" :loading="loading">
+            Đây là trang chủ
         </MainSection>
     </div>
 </template>
