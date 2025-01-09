@@ -10,13 +10,13 @@
             </div>
           </div>
           <!--Main content-->
-          <main class="col-span-12 bg-red-500 md:col-span-8 xl:col-span-6">
-            hihi
+          <main class="col-span-12 md:col-span-8 xl:col-span-6">
+            <router-view></router-view>
           </main>
           <!--Right Sidebar-->
-          <div class="grid-1 hidden md:block xl:col-span-4 md:col-span-3 bg-blue-400">
+          <div class="col-span-12 grid-1 md:block xl:col-span-4 md:col-span-3 bg-blue-400">
             <div class="sticky top-0">
-              Right Sidebar
+              <SidebarRight/>
             </div>
           </div>
         </div>
